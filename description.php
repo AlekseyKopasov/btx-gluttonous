@@ -1,7 +1,7 @@
 <?
 $arTemplate = array (
-  'NAME' => 'Шаблон Gluttonous',
-  'DESCRIPTION' => 'Интеграция лендинга Gluttonous на Bitrix',
+  'NAME' => 'Шаблон Главной страницы - Gluttonous',
+  'DESCRIPTION' => 'Шаблон Главной страницы, без боковых колонок',
   'SORT' => 300,
   'TYPE' => '',
 );
