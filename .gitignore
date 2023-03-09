@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+package-lock.json
+*.ai
+*.log
+*.psd
+*.sublime*
+node_modules/
+npm-debug.*
+Thumbs.db
+crios-html/
+gluttonous_layout-master/
+php_interface/vendor/
